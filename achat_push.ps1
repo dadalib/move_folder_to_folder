@@ -1,7 +1,7 @@
 
 # Define source and destination paths
-$source = "F:\Fetch_Folder"
-$destination = "D:\Destination_folder"
+$source = "G:/Test"
+$destination = "Lou/Test"
 
 # Move the folder
 Move-Item -Path $source -Destination $destination

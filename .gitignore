@@ -1,0 +1,10 @@
+
+# Ignore the folder on X: drive (if mapped locally)
+G:/Test
+
+# Or if the folder is inside your repo structure, use relative paths:
+Darwin Lou/Test
+
+# Ignore any other sensitive folders or files
+*.log
+*.tmp
