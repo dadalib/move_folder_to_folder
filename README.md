@@ -2,4 +2,5 @@
 Powershell Script
 
 #By Pass 
- powershell -ExecutionPolicy Bypass -File "Your Path"
+ powershell -ExecutionPolicy Bypass -File "Your Path F:\..\file.ps1"
+ 
